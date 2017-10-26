@@ -1,6 +1,6 @@
 # Scully
 
-In order to better understand Elixir's `Agent` I have tried to reimplement some of it's functionality just using `send` and `receive`.
+In order to better understand Elixir's `Agent` I have tried to reimplement some of it's functionality just using `send` and `receive`. Don't use this code, it's for educational purposes only.
 
 ![Agent Scully](https://raw.githubusercontent.com/bundacia/scully/master/scully.png)
 
